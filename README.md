@@ -1,8 +1,7 @@
 # 100 Days of Code: The Complete Python Pro Bootcamp
 
-![Python Shield](https://img.shields.io/badge/Language-Python%203-blue?style=for-the-badge&logo=python)
-![Progress Shield](https://img.shields.io/badge/Progress-0%20%2F%20100%20Days-green?style=for-the-badge)
-![License Shield](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)
+![Python Shield](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Udemy Shield](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white)
 
 Welcome to my personal repository tracking my journey through Dr. Angela Yu's [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/) on Udemy. 
 
